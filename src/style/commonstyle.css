@@ -1,0 +1,17 @@
+.common_section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("../assets/images/bg1.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+  background-repeat: no-repeat;
+  padding: 100px 0px;
+}
+.common_h1 {
+  text-align: center;
+  font-weight: 600;
+  color: aliceblue;
+  font-size: 100px;
+}
